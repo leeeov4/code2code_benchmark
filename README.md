@@ -259,9 +259,11 @@ $BENCHMARK_DATA_DIR/output/codenet/
         └── <model_name>_<query_version>_<candidate_version>.json
 ```
 
+## Appendix A: Full benchmark results
+![FULL BENCHMARK](tables/full_bench.png)
 
 
-## Appendix: Available Models
+## Appendix B: Available Models
 
 | Model | Model Name | HuggingFace |
 |-------|-----------|-------------|
